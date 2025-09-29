@@ -33,7 +33,7 @@ https://support.google.com/googleplay/android-developer/answer/9799150?hl=en
 ### Prerequisites
 To run this project in the development mode, you'll need to have a basic environment to run a React-Native App, that can be found [here](https://reactnative.dev/docs/environment-setup).
 
-Also, you'll need to the servers running locally on your machine with the mock data. You can find the [Socket.io Server here](https://github.com/andrewdev14/taxi-app-socket.io). and the [Express Server here](https://github.com/andrewdev14/taxi-app-express-backend.git)
+Also, you'll need to the servers running locally on your machine with the mock data. You can find the [Socket.io Server here](https://github.com/andrewdev14/NodeJS-Taxi-App-Socket.io-Server.git). and the [Express Server here](https://github.com/andrewdev14/Express-Taxi-App-Backend.git)
 
 ### Installing
 Cloning the Repository
