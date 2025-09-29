@@ -3,7 +3,7 @@
 A React-Native App that links Taxi Drivers and Passengers. It was built for studies purposes... 
 
 
-It uses a [Socket.io Server](https://github.com/andrewdev14/taxi-app-socket.io) to connect Driver and Passenger in real time. It also uses a REST API [Express Backend](https://github.com/andrewdev14/taxi-app-express-backend.git) for login, sign up, authentication and controlling routes inside the App.  
+It uses a [Socket.io Server](https://github.com/andrewdev14/NodeJS-Taxi-App-Socket.io-Server.git) to connect Driver and Passenger in real time. It also uses a REST API [Express Backend](https://github.com/andrewdev14/taxi-app-express-backend.git) for login, sign up, authentication and controlling routes inside the App.  
 
 video of the application running:
 https://streamable.com/jb8wyo
