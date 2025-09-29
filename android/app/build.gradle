@@ -129,7 +129,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.uber_app"
+        applicationId "com.andrewdev14.wetaxi"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

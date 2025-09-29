@@ -3,7 +3,7 @@
 A React-Native App that links Taxi Drivers and Passengers. It was built for studies purposes... 
 
 
-It uses a [Socket.io Server](https://github.com/daniel30-07/taxi-app-socket.io) to connect Driver and Passenger in real time. It also uses a REST API [Express Backend](https://github.com/daniel30-07/taxi-app-express-backend.git) for login, sign up, authentication and controlling routes inside the App.  
+It uses a [Socket.io Server](https://github.com/andrewdev14/taxi-app-socket.io) to connect Driver and Passenger in real time. It also uses a REST API [Express Backend](https://github.com/andrewdev14/taxi-app-express-backend.git) for login, sign up, authentication and controlling routes inside the App.  
 
 video of the application running:
 https://streamable.com/jb8wyo
@@ -14,7 +14,7 @@ If you want to implement it on android, you must make adjustments and request ba
 https://support.google.com/googleplay/android-developer/answer/9799150?hl=en
 
 ## Contributors
-* dgtalbox contributed on this repo.
+* andrewdev14 - Repository owner and maintainer
 
 ## Functionalities
 * Sign up / Login / Authentication
@@ -33,13 +33,13 @@ https://support.google.com/googleplay/android-developer/answer/9799150?hl=en
 ### Prerequisites
 To run this project in the development mode, you'll need to have a basic environment to run a React-Native App, that can be found [here](https://reactnative.dev/docs/environment-setup).
 
-Also, you'll need to the servers running locally on your machine with the mock data. You can find the [Socket.io Server here](https://github.com/daniel30-07/taxi-app-socket.io). and the [Express Server here](https://github.com/daniel30-07/taxi-app-express-backend.git)
+Also, you'll need to the servers running locally on your machine with the mock data. You can find the [Socket.io Server here](https://github.com/andrewdev14/taxi-app-socket.io). and the [Express Server here](https://github.com/andrewdev14/taxi-app-express-backend.git)
 
 ### Installing
 Cloning the Repository
 
 ```
-$ git clone https://github.com/crazynavi/taxi-app.git
+$ git clone https://github.com/andrewdev14/React-Native-Taxi-App.git
 ```
 
 ```
@@ -111,7 +111,7 @@ $ yarn ios
 
 You can send how many PR's do you want, I'll be glad to analyse and accept them! And if you have any question about the project...
 
-Email-me: ilove.delicious.pizza@gmail.com
+Email-me: andrewballweberdev0914@gmail.com
 
 
 Thank you!

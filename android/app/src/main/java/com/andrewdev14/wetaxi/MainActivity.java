@@ -1,4 +1,4 @@
-package com.uber_app;
+package com.andrewdev14.wetaxi;
 
 import com.facebook.react.ReactActivity;
 
@@ -10,6 +10,6 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "uber_app";
+    return "we-taxi-app";
   }
 }
